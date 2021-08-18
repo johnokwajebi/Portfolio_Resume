@@ -1,10 +1,11 @@
 # Django-Portfolio-Resume
 
-![Optional Text](./static/img/hng.jpg)
+[![Hng](./static/img/hng.jpg)]
 
-![Optional Text](./static/img/I4G.jpg)
+[![I4G](./static/img/I4G.png)]
 
-![Optional Text](./static/img/zuri.jpg)
+[![zuri](./static/img/zuri.jpg)]
+
 
 
 GETTING STARTED
