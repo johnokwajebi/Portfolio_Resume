@@ -4,7 +4,7 @@
 
 ![I4G](./static/img/I4G.png)
 
-![zuri](./static/img/zuri.jpg)]
+![zuri](./static/img/zuri.jpg)
 
 
 
