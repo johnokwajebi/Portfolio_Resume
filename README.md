@@ -2,6 +2,10 @@
 
 ![Optional Text](./static/img/hng.jpg)
 
+![Optional Text](./static/img/I4G.jpg)
+
+![Optional Text](./static/img/zuri.jpg)
+
 
 GETTING STARTED
 
