@@ -1,10 +1,10 @@
 # Django-Portfolio-Resume
 
-[![Hng](./static/img/hng.jpg)]
+![Hng](./static/img/hng.jpg)
 
-[![I4G](./static/img/I4G.png)]
+![I4G](./static/img/I4G.png)
 
-[![zuri](./static/img/zuri.jpg)]
+![zuri](./static/img/zuri.jpg)]
 
 
 
