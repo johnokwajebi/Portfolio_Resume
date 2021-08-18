@@ -5,6 +5,6 @@ from .views import HomePageView, contact_view
 
 urlpatterns = [
     
-    path('', contact_view, name='contact' ),
+    path('contact/', contact_view, name='contact' ),
     path('', HomePageView.as_view(), name='home'),
 ]
