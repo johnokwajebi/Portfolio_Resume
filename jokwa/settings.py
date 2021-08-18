@@ -23,11 +23,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.environ['SECRET_KEY']
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+# DEBUG = True
 
 
 # # Production settings
-# DEBUG = False
+DEBUG = False
 SECURE_BROWSER_XSS_FILTER = True
 X_FRAME_OPTIONS = 'DENY'
 SECURE_SSL_REDIRECT = True
@@ -198,14 +198,14 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 
 # Email configurations
-CONTACT_EMAIL = 'jokwa.be@gmail.com'
-ADMIN_EMAILS = ['jokwa.be@gmail.com', ]
+CONTACT_EMAIL = 'lawrencejohn311@gmail.com'
+ADMIN_EMAILS = ['lawrencejohn311@gmail.com', ]
 
 
-EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
-# EMAIL_HOST = 'smtp.gmail.com'
-# EMAIL_USE_TLS = True
-# EMAIL_PORT = 587
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_USE_TLS = True
+EMAIL_PORT = 587
 # EMAIL_HOST_USER = os.environ.get('EMAIL_HOST_USER')
 # EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASSWORD')
 
