@@ -47,7 +47,7 @@ CSRF_COOKIE_SECURE = True
 
 
 
-ALLOWED_HOSTS = ['.jokwa.xyz',]
+ALLOWED_HOSTS = ['*.herokuapp.com','.jokwa.xyz',]
 
 
 # Application definition
