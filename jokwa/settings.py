@@ -47,7 +47,7 @@ CSRF_COOKIE_SECURE = True
 
 
 
-ALLOWED_HOSTS = ['jokwa.xyz', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['.jokwa.xyz',]
 
 
 # Application definition
