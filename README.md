@@ -26,6 +26,6 @@ GETTING STARTED
 
 3 - Live Link
 
-    https://jokwa.herokuapp.com/
+    https://jokwa.xyz
 
     
